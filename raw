@@ -4,19 +4,19 @@
 			"Name": "Adobo",
 			"Top": 1,
 			"Description": "Commonly chicken simmered in vinegar, garlic, black peppercorns, soy sauce, and bay leaves",
-			"Most popular Filipino food": true
+			"MostPopularFilipinoFood": true
 		},
 		{
 			"Name": "Bulalo",
 			"Top": 2,
 			"Description": "Besides the beef, it also includes leafy vegetables, corn cob, scallions, garlic, onion, ginger, scallions, and fish sauce",
-			"Most popular Filipino food": true
+			"MostPopularFilipinoFood": true
 		},
 		{
 			"Name": "Bicol Express",
 			"Top": 3,
 			"Description": "Spicy Filipino stew that contains bite-sized pork pieces with chilies, coconut milk, shrimp paste, tomatoes, onions, and garlic",
-			"Most popular Filipino food": true
+			"MostPopularFilipinoFood": true
 		}
 	],
 	
